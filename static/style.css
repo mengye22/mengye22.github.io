@@ -322,10 +322,9 @@ p{
 }
 
 /* Skills section */
-
 #skill .skill{
     flex-direction: column;
-    max-width: 1500px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 #skill .all-skill{
@@ -384,7 +383,7 @@ p{
     justify-content: center;
     flex-direction: column;
 }
-.projects .project-item{
+#projects .project-item{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -649,7 +648,6 @@ p{
         justify-content: first baseline;
         margin: 0;
     } */
-   
 }
 
 /* media query for desktop */
